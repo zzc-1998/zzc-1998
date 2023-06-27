@@ -9,7 +9,7 @@
 - If you find our work useful, please give us stars!! Thank you!!! 👯
   
 
-### Highlights **😄😄😄
+### Highlights 😄😄😄
 
 - ⚡⚡⚡[*ICIP2023-PCVQA*](https://sites.google.com/view/icip2023-pcvqa-grand-challenge/results)  We won first place in 4 of 5 tracks during the ***Point Cloud Visual Quality Assessment Challenge - ICIP 2023***
 - 🤔🤔🤔[Collections of papers related to 3D Model Quality Assessment](https://github.com/zzc-1998/Point-cloud-quality-assessment)
