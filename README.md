@@ -8,8 +8,9 @@
 
   
 
-**Highlight Achievements**
-😄😄😄[ICIP2023-PCVQA](https://sites.google.com/view/icip2023-pcvqa-grand-challenge/results)  We won first place in 4 of 5 tracks during the ***Point Cloud Visual Quality Assessment Challenge - ICIP 2023***
+**Highlight Achievements**😄😄😄
+
+[*ICIP2023-PCVQA*](https://sites.google.com/view/icip2023-pcvqa-grand-challenge/results)  We won first place in 4 of 5 tracks during the ***Point Cloud Visual Quality Assessment Challenge - ICIP 2023***
 
 
 
