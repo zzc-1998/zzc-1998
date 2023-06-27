@@ -1,6 +1,7 @@
 ### Hello, I'm Zicheng Zhang 👋
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=zzc-1998/zzc-1998)
 [![GitHub Followers](https://img.shields.io/github/followers/zzc-1998?style=social)](https://github.com/zzc-1998)
+[![GitHub Stars](https://img.shields.io/github/stars/zzc-1998?style=social)](https://github.com/zzc-1998)
 
 - PhD student at Shanghai Jiaotong University🔭
 - Topics: **Image Quality Assessment**, **Video Quality Assessment**, **3D model Quality Assessment**🌱
@@ -8,10 +9,10 @@
 
   
 
-## Highlight Achievements**😄😄😄
+### Highlights **😄😄😄
 
-[*ICIP2023-PCVQA*](https://sites.google.com/view/icip2023-pcvqa-grand-challenge/results)  We won first place in 4 of 5 tracks during the ***Point Cloud Visual Quality Assessment Challenge - ICIP 2023***
-
+- [*ICIP2023-PCVQA*](https://sites.google.com/view/icip2023-pcvqa-grand-challenge/results)  We won first place in 4 of 5 tracks during the ***Point Cloud Visual Quality Assessment Challenge - ICIP 2023***
+- 
 
 
 
