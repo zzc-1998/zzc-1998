@@ -2,7 +2,7 @@
 
 
 [![GitHub Followers](https://img.shields.io/github/followers/zzc-1998?style=social)](https://github.com/zzc-1998)
-[![GitHub Stars](https://img.shields.io/github/stars/zzc-1998?style=social)](https://github.com/zzc-1998)
+
 
 - PhD student at Shanghai Jiaotong University🔭
 - Topics: **Image Quality Assessment**, **Video Quality Assessment**, **3D model Quality Assessment**🌱
