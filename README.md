@@ -8,6 +8,8 @@
 - My email: zzc1998@sjtu.edu.cn💬
 - If you find our work useful, please give us stars!! Thank you!!! 👯
   
+<img src="https://komarev.com/ghpvc/?username=zzc-1998&label=Profile%20views&color=0e75b6&style=flat" alt="zzc-1998" />
+<img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=zzc-1998&show_icons=true">
 
 ### Highlights 😄😄😄
 
