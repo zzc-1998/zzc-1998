@@ -9,6 +9,10 @@
 - My email: zzc1998@sjtu.edu.cn💬
 - If you find our work useful, please give us stars!! Thank you!!! 👯
   
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Q-Future/Q-Bench,Q-Future/Q-Instruct&type=Timeline)](https://star-history.com/#Q-Future/Q-Bench&Q-Future/Q-Instruct&Timeline)
+
 
 <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=zzc-1998&show_icons=true">
 
