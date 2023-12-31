@@ -11,7 +11,7 @@
   
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Q-Future/Q-Bench,Q-Future/Q-Instruct&type=Timeline)](https://star-history.com/#Q-Future/Q-Bench&Q-Future/Q-Instruct&Timeline)
+[![Star History Chart](https://api.star-history.com/svg?repos=Q-Future/Q-Bench,Q-Future/Q-Instruct,Q-Future/Q-Align&type=Timeline)](https://star-history.com/#Q-Future/Q-Bench&Q-Future/Q-Instruct&Q-Future/Q-Align&Timeline)
 
 
 <img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=zzc-1998&show_icons=true">
