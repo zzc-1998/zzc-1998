@@ -14,7 +14,7 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=Q-Future/Q-Bench,Q-Future/Q-Instruct,Q-Future/Q-Align&type=Timeline)](https://star-history.com/#Q-Future/Q-Bench&Q-Future/Q-Instruct&Q-Future/Q-Align&Timeline)
 
 
-<img align="right" width="53%" src="https://github-readme-stats.vercel.app/api?username=zzc-1998&show_icons=true">
+<img align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=zzc-1998&show_icons=true">
   
 <!--
 **zzc-1998/zzc-1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
