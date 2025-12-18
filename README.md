@@ -4,7 +4,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/zzc-1998?style=social)](https://github.com/zzc-1998)
 
 
-- PhD student at Shanghai Jiaotong University & Shanghai AI Lab🔭
+- Research Fellow at Shanghai AI Lab🔭
 - Topics: **Quality Assessment**, **Low-level Vision**, **Large Multi-modality Models**🌱
 - My email: zzc1998@sjtu.edu.cn💬
 - If you find our work useful, please give us stars!! Thank you!!! 👯
